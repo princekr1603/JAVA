@@ -18,3 +18,4 @@ public class ReverseNumber {
         sc.close();
     }
 }
+//if we start any number with zero then it goes for octal representation(100->1 not 001)
