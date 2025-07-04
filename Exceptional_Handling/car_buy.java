@@ -31,6 +31,5 @@ public class car_buy {
         catch(OutOfStockException e){
             System.out.println(e.getMessage());
         }
-
     }
 }
