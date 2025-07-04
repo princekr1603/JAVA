@@ -9,7 +9,7 @@ public class intro {
     }
     public static void main(String[] args) {
         System.out.println("main start");
-        intro i =new intro();
+        //intro i =new intro();
         System.out.println("main ends");
     }
 }
