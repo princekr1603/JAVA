@@ -11,7 +11,7 @@ public class MpowerN {
         for(int i=1;i<=n;i++){
             prod=prod*m;
         }
-        System.out.println(m+" to the power "+n+" is "+prod);
+        System.out.println(m+" to the power "+n+" is: "+prod);
         sc.close();
     }
 }
