@@ -11,7 +11,7 @@ public class CountDigit {
             count++;
             
         }
-        System.out.println(count);
+        System.out.println("no.of digit are:"+count);
         sc.close();
     }
 }
