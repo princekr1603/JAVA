@@ -15,10 +15,10 @@ public class DuckNumber {
             n=n/10;
         }
         if(flag==true){
-            System.out.println("Duck Number");
+            System.out.println("it is a duck Number");
         }
         else{
-            System.out.println("Not a Duck Number");
+            System.out.println("it is not a duck Number");
         }
         sc.close();
     }
