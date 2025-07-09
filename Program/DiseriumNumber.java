@@ -24,10 +24,10 @@ public class DiseriumNumber {
             count--;
         }
         if(sum==temp2){
-            System.out.println(temp2+" is diserium number");
+            System.out.println(temp2+" it is diserium number");
         }
         else{
-            System.out.println(temp2+" is not diserium number");
+            System.out.println(temp2+" it is not diserium number");
         }
         sc.close();
     }
