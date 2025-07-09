@@ -23,10 +23,10 @@ public class ArmstrongNumber {
             sum=sum+prod;
         }
         if(sum==temp2){
-            System.out.println(temp2+" is armstrong number");
+            System.out.println("it is armstrong number");
         }
         else{
-            System.out.println(temp2+" is not armstrong number");
+            System.out.println("it is not armstrong number");
         }
         sc.close();
     }
