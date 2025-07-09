@@ -19,10 +19,10 @@ public class AutomorphicNumber {
             }
         }
         if(flag==true){
-            System.out.println("Automorphic number");
+            System.out.println("it is automorphic number");
         }
         else{
-            System.out.println("not Automorphic number");
+            System.out.println("it is not automorphic number");
         }
         sc.close();
     }
