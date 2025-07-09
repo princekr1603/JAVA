@@ -11,10 +11,10 @@ public class Perfect_Number {
             }
         }                                 
         if(sum==n){
-            System.out.println(n+" is a perfect number");
+            System.out.println(n+" it is a perfect number");
         }
         else{
-            System.out.println(n+" is not a perfect number");
+            System.out.println(n+" it is not a perfect number");
         }
         sc.close();
     }
