@@ -10,7 +10,7 @@ public class ReverseNumber {
             sum=sum*10+d1;
             n=n/10;
         }
-        System.out.println("Reverse is "+sum);
+        System.out.println("Reverse num is "+sum);
         // int d1=n%10;
         // int d2=n/10;
         // rev=d1*10+d2;
