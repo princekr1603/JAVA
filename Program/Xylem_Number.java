@@ -14,10 +14,10 @@ public class Xylem_Number {
        }
        extream=extream+n;
        if(mean==extream){
-        System.out.println("xylem number");
+        System.out.println("it is xylem number");
        }
        else{
-        System.out.println("not xylem number");
+        System.out.println("it is not xylem number");
        }
        
        sc.close();

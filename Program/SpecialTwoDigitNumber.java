@@ -13,10 +13,10 @@ public class SpecialTwoDigitNumber {
         int sum=d1+d2;
         int prod=d1*d2;
         if((sum+prod)==n){
-            System.out.println("it is special two digit number");
+            System.out.println("it is a special two digit number");
         }
         else{
-            System.out.println("it is not special two digit number");
+            System.out.println("it is a not special two digit number");
         }
         sc.close();
     }
