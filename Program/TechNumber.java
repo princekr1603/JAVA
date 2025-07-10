@@ -22,10 +22,10 @@ public class TechNumber {
             int sum=fhalf+shalf;
             int sq=sum*sum;
             if(sq==temp){
-                System.out.println("Tech number");
+                System.out.println("it is Tech number");
             }
             else{
-                System.out.println("Not Tech number");
+                System.out.println("it is not Tech number");
             }
         }
         else{
