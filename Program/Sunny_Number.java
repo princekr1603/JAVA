@@ -12,13 +12,13 @@ public class Sunny_Number {
         {
             System.out.print(i+" ");
             if(i*i==n){
-                System.out.println("it is a sunny number");
+                System.out.println("Sunny number");
                 flag=true;
                 break;
             }
         }
         if(flag==false){
-            System.out.println("it is not a sunny number");
+            System.out.println("Not a sunny number");
         }
        sc.close();  
     }
