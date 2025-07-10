@@ -18,10 +18,10 @@ public class StrongNumber {
         }
         System.out.println(sum);
         if(sum==temp){
-            System.out.println("strong");
+            System.out.println("it is a strong number");
         }
         else{
-            System.out.println("not strong");
+            System.out.println("it is not strong number");
         }
         sc.close();
     }
