@@ -16,7 +16,7 @@ public class SpecialTwoDigitNumber {
             System.out.println("it is special two digit number");
         }
         else{
-            System.out.println("not special two digit number");
+            System.out.println("it is not special two digit number");
         }
         sc.close();
     }
