@@ -15,7 +15,7 @@ public class RightDownTriangle {
                 }    
             }
             System.out.println();
-        }
+        }//
         sc.close();
     }
 }
